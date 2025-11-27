@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Deploy Project to Jenkins" %></h2>
+<h2><%= "Githu Trigger" %></h2>
 </body>
 </html>
